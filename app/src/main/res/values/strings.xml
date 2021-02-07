@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="helloMsg">Hello my World</string>
+    <string name="changeNameBtn">Change name</string>
+    <string name="nameInput">Enter your name</string>
+    <string name="alertBtn">Alert</string>
+    <string name="alertMsg">Close app?</string>
+    <string name="alertPosBtn">Yes</string>
+    <string name="alertNegBtn">No</string>
+    <string name="alertCloseTitle">Close</string>
+    <string name="main_aboutBtn">About</string>
+    <string name="about_title">About</string>
+    <string name="action_intent_about">.About</string>
+    <string-array name="animals">
+        <item>Кот</item>
+        <item>Кошка</item>
+        <item>Котёнок</item>
+        <item>Животное</item>
+    </string-array>
+</resources>
